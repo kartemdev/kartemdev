@@ -1,4 +1,4 @@
-<h1 align="center">Привет👋</h1>
+<h1 align="center">Привет👋, меня зовут Артём</h1>
 
 <h3 align="left">Контактная информация:</h3>
 <p align="left"> <a href="https://t.me/Web_Dev_Lover" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegramm"></img> </a> </p>
