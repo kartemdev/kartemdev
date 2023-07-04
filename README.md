@@ -29,7 +29,7 @@
 </h1>
 
 ### :bar_chart: GitHub Statistic:
-<h1>
+<div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kartemdev" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartemdev&layout=compact" />
-</h1>
+</div>
