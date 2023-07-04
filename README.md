@@ -4,7 +4,7 @@
   <br />
   <p>👋 Welcome to kartemdev</p>
   <a href="https://t.me/kartemdev" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegramm"></img></a>
-  <a href="https://t.me/kartemdev" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"></img></a>
+  <a href="https://api.whatsapp.com/send/?phone=79852701201&text&type=phone_number&app_absent=0" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"></img></a>
   <br />
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="views"/>
 </h1>
