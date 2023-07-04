@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="views"/>
 </h1>
 
-### :hammer_and_wrench: Languages and Technology:
+### :hammer_and_wrench: Languages and Technologies:
 <h1>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></img>
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"></img>
