@@ -21,9 +21,9 @@
 <h2>:hammer_and_wrench: The languages and tools I use:</h2>
 <div>
   <h3>:memo: Languages:</h3>
+  <img src="https://img.shields.io/badge/HTML5-E44F26?style=for-the-badge&logo=html5&logoColor=white"></img>
   <img src="https://img.shields.io/badge/JavaScript-424440?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></img>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></img>
-  <img src="https://img.shields.io/badge/HTML5-E44F26?style=for-the-badge&logo=html5&logoColor=white"></img>
   <h3>:full_moon_with_face: Frontend tools:</h3>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></img>
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"></img>
