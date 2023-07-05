@@ -11,10 +11,10 @@
 <h2>:man_technologist: I'm a full-stack developer with a frontend bias:</h2>
 <div>
   <p>:man_student: I started to learn programming on my own, after which I graduated with honors from <a href="https://elbrusboot.camp/">Elbrus Coding Bootcamp</a>;</p>
-  <p>:baby: Worked in a web-studio as a frontend-developer, brought with me a year and a half of commercial experience;</p>
+  <p>:beginner: Worked in a web-studio as a frontend-developer, brought with me a year and a half of commercial experience;</p>
   <p>:ninja: Currently working as a frontend-developer in a company that provides cellular services, IP-telephony, Virtual PBX etc.;</p>
-  <p>:books: Improving my hard skills in my spare time, on the technologies used, also deepening the use of <a href="https://nestjs.com/">nestjs</a>;</p>
-  <p>:bullettrain_front: The most important thing is to move, and it does not matter at what speed</p>
+  <p>:open_book: Improving my hard skills in my spare time, on the technologies used, also deepening the use of <a href="https://nestjs.com/">nestjs</a>;</p>
+  <p>:bullettrain_front: The most important thing is to move, and it does not matter at what speed!</p>
 </div>
 <br />
 <h2>:hammer_and_wrench: The languages and technologies I use:</h2>
