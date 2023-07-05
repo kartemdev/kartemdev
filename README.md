@@ -1,6 +1,7 @@
 <div align="center" >
   <h1>👋 Welcome to my github</h1>
-  <img     src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" alt="logo-dev" width="400px"></img>
+  <img src="https://wallpaperaccess.com/full/8351156.gif" alt="logo-dev" width="500px"></img>
+  <br />
   <br />
   <a href="https://t.me/kartemdev" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegramm"></img></a>
   <a href="https://api.whatsapp.com/send/?phone=79852701201&text&type=phone_number&app_absent=0" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"></img></a>
