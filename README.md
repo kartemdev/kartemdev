@@ -1,6 +1,6 @@
 <div align="center" >
   <h1>👋 Gladly welcome</h1>
-  <img src="https://wallpaperaccess.com/full/8351156.gif" alt="logo-dev" width="500px"></img>
+  <img src="https://i.imgur.com/MvMxQ1a.gif" alt="logo-dev" width="400px"></img>
   <br />
   <br />
   <a href="https://t.me/kartemdev" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegramm"></img></a>
