@@ -12,8 +12,8 @@
 <h2>:man_technologist: I'm a full-stack developer with a frontend bias:</h2>
 <div>
   <p>:man_student: I started to learn programming on my own, after which I graduated with honors from <a href="https://elbrusboot.camp/">Elbrus Coding Bootcamp</a>;</p>
-  <p>:ninja: Currently working as a frontend-developer in a company that provides cellular services, IP-telephony, Virtual PBX etc.;</p>
   <p>:open_book: Improving my hard skills in my spare time, on the technologies used, also deepening the use of <a href="https://nestjs.com/">nestjs</a>;</p>
+  <p>:ninja: Currently working as a frontend-developer in a company that provides cellular services, IP-telephony, Virtual PBX etc.;</p>
   <p>:rocket: Grateful to myself that chose the path of programmer, getting great pleasure from developing! I progressing, creating, and exploring!</p>
 </div>
 <br />
