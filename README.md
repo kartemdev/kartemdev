@@ -14,7 +14,7 @@
   <p>:man_student: I started to learn programming on my own, after which I graduated with honors from <a href="https://elbrusboot.camp/">Elbrus Coding Bootcamp</a>;</p>
   <p>:ninja: Currently working as a frontend-developer in a company that provides cellular services, IP-telephony, Virtual PBX etc.;</p>
   <p>:open_book: Improving my hard skills in my spare time, on the technologies used, also deepening the use of <a href="https://nestjs.com/">nestjs</a>;</p>
-  <p>:bullettrain_front: I am grateful to myself that chose the path of programmer, getting great pleasure from what I do, continue to progress, create and explore;</p>
+  <p>:rocket: Grateful to myself that chose the path of programmer, getting great pleasure from developing! :ninja: Continue to progress, create and explore!</p>
 </div>
 <br />
 <h2>:hammer_and_wrench: The languages and tools I use:</h2>
