@@ -44,6 +44,8 @@
 <br />
 <h2>:bar_chart: My github statistics:</h2>
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kartemdev" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartemdev&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartemdev&layout=compact&theme=material-palenight" />
+  <br />
+  <br />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kartemdev&show_icons=true&theme=material-palenight" />
 </div>
