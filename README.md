@@ -45,5 +45,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartemdev&layout=compact&theme=material-palenight" />
   <br />
   <br />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kartemdev&show_icons=true&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kartemdev&show_icons=true&count_private&theme=material-palenight" />
 </div>
