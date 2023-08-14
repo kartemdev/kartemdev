@@ -42,8 +42,17 @@
 <br />
 <h2>:bar_chart: My github statistics:</h2>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartemdev&layout=compact&theme=material-palenight" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartemdev&layout=compact&theme=material-palenight&hide_border=true"
+      alt="most used langs"/>
+  </a>
   <br />
   <br />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kartemdev&show_icons=true&theme=material-palenight" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img 
+      align="center" src="https://github-readme-stats.vercel.app/api?username=kartemdev&show_icons=true&include_all_commits=true&theme=material-palenight&hide_border=true"
+      alt="github stats"
+    />
+  </a>
 </div>
