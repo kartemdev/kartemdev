@@ -14,7 +14,6 @@
   <p>:ninja: Currently working as a frontend-developer in a company that provides cellular services, IP-telephony, Virtual PBX etc.;</p>
   <p>:rocket: Grateful to myself that chose the path of programmer, I progressing, creating, and exploring!</p>
 </div>
-<hr />
 <details>
   <summary>:hammer_and_wrench: The languages and tools I use</summary>
   <h3>:memo: Languages:</h3>
