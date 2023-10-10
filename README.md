@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></img>
 </details>
 <details>
-  <summary>:bar_chart: My github statistics:</summary>
+  <summary>:bar_chart: My github statistics</summary>
   <br />
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
