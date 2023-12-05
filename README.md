@@ -7,7 +7,7 @@
   <a href="https://api.whatsapp.com/send/?phone=79852701201&text&type=phone_number&app_absent=0" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"></img></a>
 </div>
 <br />
-<h2>:man_technologist: I'm a full-stack developer with a frontend bias:</h2>
+<h2>👨‍💻 I'm a full-stack developer with a frontend bias:</h2>
 <div>
   <p>:man_student: I started to learn programming on my own, after which I graduated with honors from <a href="https://elbrusboot.camp/">Elbrus Coding Bootcamp</a>;</p>
   <p>:open_book: Improving my hard skills in my spare time, on the technologies used, also like to read;</p>
