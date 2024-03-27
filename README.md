@@ -44,20 +44,15 @@
 <details>
   <summary>:bar_chart: My github statistics</summary>
   <br />
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartemdev&layout=compact&theme=material-palenight&hide_border=true"
-      alt="most used langs"/>
-  </a>
+  <img
+    align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartemdev&layout=compact&theme=material-palenight&hide_border=true"
+    alt="most used langs"
+  />
   <br />
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img 
-      align="center" src="https://github-readme-stats.vercel.app/api?username=kartemdev&show_icons=true&theme=material-palenight&hide_border=true&show=reviews"
-      alt="github stats"
-    />
-  </a>
+  <img 
+    align="center" src="https://github-readme-stats.vercel.app/api?username=kartemdev&show_icons=true&theme=material-palenight&hide_border=true&show=reviews"
+    alt="github stats"
+  />
   <br />
-  <a src="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=kartemdev&theme=material-palenight&hide_border=true" />
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=kartemdev&theme=material-palenight&hide_border=true" />
 </details>
