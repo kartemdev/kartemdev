@@ -9,8 +9,8 @@
 <br />
 <h2>👨‍💻 I'm a full-stack developer with a frontend bias:</h2>
 <div>
-  <p>:man_student: I started to learn programming on my own, after which I graduated with honors from <a href="https://elbrusboot.camp/">Elbrus Coding Bootcamp</a>;</p>
-  <p>:open_book: Improving my hard skills in my spare time, on the technologies used, also like to read;</p>
+  <p>:man_student: I started learning programming on my own, after that I worked in a web studio and studied at <a href="https://elbrusboot.camp/">Elbrus Coding Bootcamp</a>;</p>
+  <p>:open_book: In my spare time I improve my skills in the technologies I use, I also like to read technical literature and frontend articles;</p>
   <p>:ninja: Currently working as a frontend-developer in a company that provides cellular services, IP-telephony, Virtual PBX etc.;</p>
   <p>:rocket: Grateful to myself that chose the path of programmer, I progressing, creating, and exploring!</p>
 </div>
