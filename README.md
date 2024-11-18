@@ -51,12 +51,12 @@
   <summary>:bar_chart: My github statistics</summary>
   <br />
   <img
-    align="center" src="https://github-readme-stats-kartemdevs-projects.vercel.app/api/top-langs/?username=kartemdev&layout=compact&theme=material-palenight&hide_border=true"
+    align="center" src="https://github-readme-stats-teal-nine-32.vercel.app/api/top-langs/?username=kartemdev&layout=compact&theme=material-palenight&hide_border=true"
     alt="most used langs"
   />
   <br />
   <img 
-    align="center" src="https://github-readme-stats-kartemdevs-projects.vercel.app/api?username=kartemdev&show_icons=true&theme=material-palenight&hide_border=true&show=reviews"
+    align="center" src="https://github-readme-stats-teal-nine-32.vercel.app/api?username=kartemdev&show_icons=true&theme=material-palenight&hide_border=true&show=reviews"
     alt="github stats"
   />
   <br />
