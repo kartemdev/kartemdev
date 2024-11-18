@@ -56,7 +56,7 @@
   />
   <br />
   <img 
-    align="center" src="https://github-readme-stats-teal-nine-32.vercel.app/api?username=kartemdev&show_icons=true&theme=material-palenight&hide_border=true&show=reviews"
+    align="center" src="https://github-readme-stats-teal-nine-32.vercel.app/api?username=kartemdev&show_icons=true&theme=material-palenight&hide_border=true&show=reviews&include_all_commits=true"
     alt="github stats"
   />
   <br />
