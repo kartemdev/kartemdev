@@ -9,7 +9,6 @@
 <br />
 <h2>👨‍💻 I'm a frontend developer:</h2>
 <div>
-  <p>:man_student: I started learning programming on my own, after that, I went to <a href="https://elbrusboot.camp/">Elbrus Coding Bootcamp</a>;</p>
   <p>:open_book: In my spare time I improve my skills in the technologies I use, I also like to read technical literature and frontend articles;</p>
   <p>:ninja: Currently working as a frontend-developer in a company that provides cellular services, IP-telephony, Virtual PBX etc.;</p>
   <p>:rocket: Grateful to myself that chose the path of programmer, I progressing, creating, and exploring!</p>
